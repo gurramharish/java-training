@@ -1,21 +1,29 @@
 # Java Basics - Core Java
 
-## About Java
-    * Structural and Object Orieneted High level
+## Week #1
 
-## Why do we need Java ?
+### What is Java ?
+    * Structural and Object Orieneted High level language
+
+### Why do we need Java ?
     * Simple & Portable, Object-Oriented, Independent, Secured and Dynamic, High Performance, Robust, Mutlithreaded
 
-## High Level to Machine Language
+### High Level to Machine Language
     * Compile and interpret(JVM)
 
-## Java Installation and Setup
+### Programming Paradigm
+    * Object - Oriented, Procedural, Functional
 
-## JDK, JRE and JVM
+### Java Installation and Setup
 
-## Sample Program
+### JDK, JRE and JVM
 
-## Primitive Data types and Wrapper Classes
+### Sample Program
+
+### Variables
+    * dataType variableName = value
+
+### Primitive Data types and Wrapper Classes
 
 | Data Type | Size    | Range                   |
 |-----------|---------|-------------------------|
@@ -29,7 +37,7 @@
 | char      | 2 bytes | '\u0000' to '\uffff'    |
 
 
-### Primitive Data Types Default Values
+#### Primitive Data Types Default Values
 
 | Data Type   | Default Value   |
 | ----------- | --------------- |
@@ -41,3 +49,22 @@
 | double      | 0.0d            |
 | boolean     | false           |
 | char        | '\u0000'        |
+
+
+### Operators
+    * Arthmetic Operators(+, *, -, /, %)
+    * Prefix, Postfix and Compound Operators(++, --, +=, *=, /=, %=)
+    * Relational Operators(>, <, >=, <=)
+    * Logical Operators(&, |, ^, !)
+    * Conditional Logical Operators (&&, ||)
+
+### Operator Precedence
+    * Based on the operators precedence compiler calculate the values first
+    * Postfix, Prefix, Multiplicative(* / %) and Additive (+ -)
+    * Pranthesis can override the precedence
+
+### Type Conversion
+    * Implicit Conversion and Explicit Conversion
+
+### Wrapper Classes
+    * Each primitive Data type has respective wrapper class
