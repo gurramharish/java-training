@@ -55,8 +55,9 @@
     * Arthmetic Operators(+, *, -, /, %)
     * Prefix, Postfix and Compound Operators(++, --, +=, *=, /=, %=)
     * Relational Operators(>, <, >=, <=)
-    * Logical Operators(&, |, ^, !)
+    * Logical Operators Or Bitwise (&, |, ^, !, <<, >>)
     * Conditional Logical Operators (&&, ||)
+    * Ternary Operator( condition ? value1 : value2)
 
 ### Operator Precedence
     * Based on the operators precedence compiler calculate the values first
@@ -68,3 +69,7 @@
 
 ### Wrapper Classes
     * Each primitive Data type has respective wrapper class
+
+### Conditional Logic and Block Statements
+
+### Loops For, while, do-while
